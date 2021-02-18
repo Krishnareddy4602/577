@@ -5,11 +5,12 @@
 **link**
 [github](https://app.diagrams.net/)
   
-  **Table**
+  **Tables**  
+  
   Name|Branch|College  
-  ----|------|------- 
-  abc|cse|VRSEC
-  xyz|eee|Vrsep
+  |----|------|-------| 
+  |abc|cse|VRSEC|
+  |xyz|eee|Vrsep|
     
    **Image**  
     ![gitlogo](https://www.edureka.co/blog/wp-content/uploads/2017/12/github-logo.png)
